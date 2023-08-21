@@ -29,3 +29,7 @@ cr3gui/data/tessdata/
 /clang-analyzer-reports/
 /thirdparty
 /thirdparty_tmp
+.vscode/
+.idea/
+cmake-build-debug/
+cmake-build-release/
